@@ -1,0 +1,15 @@
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\bin\Debug\net6.0\lecture1.exe
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\bin\Debug\net6.0\lecture1.deps.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\bin\Debug\net6.0\lecture1.runtimeconfig.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\bin\Debug\net6.0\lecture1.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\bin\Debug\net6.0\lecture1.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.csproj.AssemblyReference.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.AssemblyInfoInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.AssemblyInfo.cs
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.csproj.CoreCompileInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\refint\lecture1.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\lecture1.genruntimeconfig.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\lecture1\obj\Debug\net6.0\ref\lecture1.dll

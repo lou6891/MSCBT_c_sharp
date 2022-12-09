@@ -1,0 +1,30 @@
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\bin\Debug\net6.0\helloWorld.exe
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\bin\Debug\net6.0\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\PycharmProjects\C#\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\bin\Debug\net6.0\helloWorld.exe
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\bin\Debug\net6.0\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\Coding Languages\C#\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll

@@ -1,0 +1,15 @@
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\bin\Debug\net6.0\lecture3.exe
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\bin\Debug\net6.0\lecture3.deps.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\bin\Debug\net6.0\lecture3.runtimeconfig.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\bin\Debug\net6.0\lecture3.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\bin\Debug\net6.0\lecture3.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.csproj.AssemblyReference.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.AssemblyInfoInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.AssemblyInfo.cs
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.csproj.CoreCompileInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\refint\lecture3.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\lecture3.genruntimeconfig.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\c#\lecture3\obj\Debug\net6.0\ref\lecture3.dll

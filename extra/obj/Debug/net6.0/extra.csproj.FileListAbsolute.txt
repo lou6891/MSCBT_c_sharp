@@ -1,0 +1,15 @@
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\bin\Debug\net6.0\extra.exe
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\bin\Debug\net6.0\extra.deps.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\bin\Debug\net6.0\extra.runtimeconfig.json
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\bin\Debug\net6.0\extra.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\bin\Debug\net6.0\extra.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.csproj.AssemblyReference.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.AssemblyInfoInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.AssemblyInfo.cs
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.csproj.CoreCompileInputs.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\refint\extra.dll
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.pdb
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\extra.genruntimeconfig.cache
+C:\Users\lucac\OneDrive\Desktop\MSCBT\CodingLanguages\C#\extra\obj\Debug\net6.0\ref\extra.dll
